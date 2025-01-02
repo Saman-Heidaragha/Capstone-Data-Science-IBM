@@ -14,8 +14,8 @@ The dataset used in this project is [briefly describe the dataset—where it's f
 
 Here's a quick rundown of the files in this repo:
 
-data/: Raw and processed data files.  
-notebooks/: Jupyter notebooks where I did most of the analysis and modeling.  
-scripts/: Python or R scripts used for data cleaning and processing.  
-outputs/: All the visualizations, reports, and model files I generated.  
-README.md: This file, giving you the rundown of the project.  
+## data: Raw and processed data files.  
+## notebooks: Jupyter notebooks where I did most of the analysis and modeling.  
+## scripts: Python or R scripts used for data cleaning and processing.  
+## outputs: All the visualizations, reports, and model files I generated.  
+## README.md: This file, giving you the rundown of the project.  
