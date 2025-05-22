@@ -8,7 +8,7 @@ For this project, I worked with a dataset to explore, clean, and analyze the dat
 
 ## The Dataset
 
-The dataset used in this project is Falcom from SpaceX. I spent some time cleaning and preparing the data to make sure it was ready for analysis.
+The dataset used in this project is from SpaceX. I spent some time cleaning and preparing the data to make sure it was ready for analysis.
 
 ## Project Files
 
